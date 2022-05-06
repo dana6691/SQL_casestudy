@@ -11,3 +11,30 @@
 - member
     - customer_id
     - join_date
+## case study 2 - Pizza Runner
+- runners
+    - runner_id
+    - registration_date
+- customer_ordres
+    - order_id
+    - customer_id
+    - pizza_id
+    - exclusions
+    - extras
+    - order_time
+- runner_orders
+    - order_id
+    - runner_id
+    - pickup_time
+    - distance
+    - duration
+    - cencellation
+- pizza_names
+    - pizza_id
+    - pizza_name
+- pizza_recipes
+    - pizza_id
+    - toppings
+- pizza_toppigs
+    - toppig_id
+    - toppig_name
