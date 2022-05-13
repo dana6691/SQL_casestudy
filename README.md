@@ -1,40 +1,6 @@
 # SQLchallenge
 ## case study 1 - Danny's restaurant
-- Sales
-    - customer_id
-    - order_date
-    - product_id
-- menu
-    - product_id
-    - poduct_name
-    - price
-- member
-    - customer_id
-    - join_date
+![dbdiagram](./Image/case11.png)
+
 ## case study 2 - Pizza Runner
-- runners
-    - runner_id
-    - registration_date
-- customer_ordres
-    - order_id
-    - customer_id
-    - pizza_id
-    - exclusions
-    - extras
-    - order_time
-- runner_orders
-    - order_id
-    - runner_id
-    - pickup_time
-    - distance
-    - duration
-    - cencellation
-- pizza_names
-    - pizza_id
-    - pizza_name
-- pizza_recipes
-    - pizza_id
-    - toppings
-- pizza_toppigs
-    - toppig_id
-    - toppig_name
+![dbdiagram2](./Image/case1.png)
