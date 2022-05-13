@@ -151,9 +151,6 @@ from runner_orders
 group by runner_id
 ----------------------------------------------------
 ------ Ingredient Optimization
--- STRING_SPLIT: splits a string into rows of substrings
--- CONCAT
--- 
 ----------------------------------------------------
 -- 1. What are the standard ingredients for each pizza?
 select * from pizza_toppings
