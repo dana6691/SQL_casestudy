@@ -20,3 +20,13 @@ Learning how to Change the datatype, Use Date and time functions (DATENAME(), DA
 - What was the most ingredients that commonly added extra?
 - What was the most ingredients that commonly excluded?
 - How much is the total price for each delievery?
+
+## case study 3 - Foodie
+![dbdiagram3](https://github.com/dana6691/SQL_casestudy/blob/main/Image/case3.PNG)
+Using the subscription plan data to understand the customers' pattern by using CASE WHEN, LEAD(), ROW_NUMBER(), and multiple CTE tables.
+- How many customers start the trial by month?
+- Calculate the customer churn rate.
+- Calculate the percentage of customers who start the monthly/yearly plans right after the free trial.
+- How many customers have upgraded the plan to an annual plan?
+- How many average days does it take for a customer to an annual plan from the trial start date?
+- Group the customers by the number of average days until the annual plan.
