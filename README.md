@@ -13,6 +13,7 @@ Learning how to use Common Table Expressions(CTE), Group By Aggregates, Window F
 
 ## case study 2 - Pizza Runner
 ![dbdiagram2](https://github.com/dana6691/SQL_casestudy/blob/main/Image/case1.PNG)
+
 Learning how to Change the datatype, Use Date and time functions (DATENAME(), DATEPART(), DATEDIFF()), CASE WHEN statement, Use STRING_SPLIT functions to split a string into rows of substrings. 
 - How many pizzas were ordered by pizza type? 
 - How many pizzas delievered succesfully?
@@ -24,6 +25,7 @@ Learning how to Change the datatype, Use Date and time functions (DATENAME(), DA
 
 ## case study 3 - Foodie
 ![dbdiagram3](https://github.com/dana6691/SQL_casestudy/blob/main/Image/case3.PNG)
+
 Using the subscription plan data to understand the customers' pattern by using CASE WHEN, LEAD(), ROW_NUMBER(), and multiple CTE tables.
 - How many customers start the trial by month?
 - Calculate the customer churn rate.
