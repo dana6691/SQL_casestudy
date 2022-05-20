@@ -1,4 +1,4 @@
-# SQLchallenge
+# SQL Case Study
 ## case study 1 - Danny's restaurant
 ![dbdiagram](https://github.com/dana6691/SQL_casestudy/blob/main/Image/case11.PNG)
 
@@ -20,6 +20,7 @@ Learning how to Change the datatype, Use Date and time functions (DATENAME(), DA
 - What was the most ingredients that commonly added extra?
 - What was the most ingredients that commonly excluded?
 - How much is the total price for each delievery?
+<<<<<<< HEAD
 
 ## case study 3 - Foodie
 ![dbdiagram3](https://github.com/dana6691/SQL_casestudy/blob/main/Image/case3.PNG)
@@ -30,3 +31,5 @@ Using the subscription plan data to understand the customers' pattern by using C
 - How many customers have upgraded the plan to an annual plan?
 - How many average days does it take for a customer to an annual plan from the trial start date?
 - Group the customers by the number of average days until the annual plan.
+=======
+>>>>>>> c39a1c2b05d22366696cd41b7d970519a0e97ffa
