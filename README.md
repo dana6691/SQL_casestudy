@@ -1,4 +1,4 @@
-# SQLchallenge
+# SQL Case Study
 ## case study 1 - Danny's restaurant
 ![dbdiagram](https://github.com/dana6691/SQL_casestudy/blob/main/Image/case11.PNG)
 
