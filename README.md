@@ -31,5 +31,3 @@ Using the subscription plan data to understand the customers' pattern by using C
 - How many customers have upgraded the plan to an annual plan?
 - How many average days does it take for a customer to an annual plan from the trial start date?
 - Group the customers by the number of average days until the annual plan.
-=======
->>>>>>> c39a1c2b05d22366696cd41b7d970519a0e97ffa
